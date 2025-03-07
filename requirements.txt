@@ -1,0 +1,9 @@
+aiohttp
+aioboto3
+boto3
+botocore
+gunicorn
+uvicorn
+flask
+python-dotenv
+Flask[async]
